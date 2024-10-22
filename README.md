@@ -2,8 +2,6 @@
 This suite contains the following programs to analyze pdb files.
 Send comments and bugs to Odeth Valencia.
 Some scripts allow the user to interactively define what is wanted.
-The programs exist in /usr/local/bin, so they are already in your path.
-All are called 'pdb_{something}'. You can type 'pdb_{TAB}' to list them.
 
 ## pdb_to_tabular.py (non-interactive)
 USAGE: pdb_to_tabular.py [-h] [-s] pdb outfile
